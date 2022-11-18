@@ -1,0 +1,4 @@
+git config --global user.name "runformoon"
+git config --global user.email "runformoon@foxmail.com"
+
+ssh-keygen -t rsa -C “runformoon@foxmail.com”
