@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+}
+#header{
+    width: 100%;height: 40px;border: 5px solid #ccc;
+}
+.header{
+    width: 1200px;height: 40px;border: 1px solid red;margin: 0px auto;
+}
